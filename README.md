@@ -26,7 +26,7 @@ develop
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/NextAuth.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TanStack_Query-0769AD?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Recoil-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/TanStack_Query-0769AD?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Recoil-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/NextAuth.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
 
 
 
