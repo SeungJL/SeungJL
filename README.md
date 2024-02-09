@@ -32,7 +32,8 @@ develop
 
 style/ui  
 
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakra-ui&logoColor=white"/> <img src="https://img.shields.io/badge/Flowbite-38B2AC?style=flat-square&logo=Tailwind-CSS&logoColor=white"/>
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakra-ui&logoColor=white"/> <img src="https://img.shields.io/badge/Flowbite-38B2AC?style=flat-square&logo=Tailwind-CSS&logoColor=white"/>
 
 
 
