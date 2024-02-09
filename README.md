@@ -1,4 +1,4 @@
-### Hi there 👋
+2022-12-01 ~ 개인 스타트업
 
 
 ## 🚀 Frequently Used Stack
